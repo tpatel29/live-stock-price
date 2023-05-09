@@ -14,7 +14,7 @@ npm install live-stock-price
 
 
 ## Usage
-```
+```js
 const liveStockPrice = require('live-stock-price');
 
 liveStockPrice('AAPL')
