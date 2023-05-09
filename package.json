@@ -1,6 +1,6 @@
 {
   "name": "live-stock-price",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Live Stock Price is an NPM package that provides live stock data prices for a given symbol. It fetches the stock price from Yahoo Finance using web scraping techniques.",
   "main": "index.js",
   "scripts": {
